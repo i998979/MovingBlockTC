@@ -7,6 +7,11 @@ It count the distance between train and train and stop itself if it is too close
 Also You can change the train speed instantly with a command.  
 Remember this plugin will do the check all the TrainCarts every 10 tick to apply changes on them if they have "MovingBlock" system support.  
 
+## **Dependencies**
+- TrainCarts
+- BKCommonLib
+
+
 ## **Commands**
 Main commands:
 - "": necessary []: optional  
