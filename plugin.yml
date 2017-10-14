@@ -1,0 +1,9 @@
+main: to.epac.factorycraft.MovingBlockTC.Main
+version: 0.1
+name: MovingBlockTC
+author: i998979
+depends: [Train_Carts]
+description: MovingBlockTC
+commands:
+   mbtc:
+     aliases: [mtc, mt]
